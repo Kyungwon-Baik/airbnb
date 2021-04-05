@@ -1,0 +1,38 @@
+.hosting{
+  
+}
+
+.background {
+  position: relative;
+  border-radius : 10%;
+}
+
+.h-texts{
+  position: absolute;
+  top: 0px;
+  width: 30%;
+  left: 50px;
+}
+
+.youguys{
+    font-size: 30px; 
+    line-height: 36px; 
+    color: white;
+    font-weight: 600;
+    white-space: pre-wrap;
+}
+
+.emptyspace{
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: normal;
+    color: white;
+}
+
+ul li{
+  float: left;
+  list-style-type: none;
+  margin-left: 20px;
+}
+
+
