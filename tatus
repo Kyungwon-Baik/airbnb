@@ -1,0 +1,81 @@
+[33mcommit 839c9b623a44b66f7c232d583a384b114b8937e7[m[33m ([m[1;36mHEAD -> [m[1;32mJaebin[m[33m, [m[1;32mseungryul[m[33m)[m
+Author: Bin <dbswoqls89@snu.ac.kr>
+Date:   Tue Apr 6 01:20:07 2021 +0900
+
+    listing contents
+
+[33mcommit 7bbc61fd5160ac529f6e32b70f43bc05ad37dafb[m[33m ([m[1;31morigin/Jaebin[m[33m)[m
+Author: Bin <dbswoqls89@snu.ac.kr>
+Date:   Mon Apr 5 21:12:25 2021 +0900
+
+    html structure made
+
+[33mcommit 61e74415f87af6a42cf39472fb66b8c2350a7e7b[m
+Merge: 6079785 5c9981c
+Author: Bin <dbswoqls89@snu.ac.kr>
+Date:   Mon Apr 5 20:28:47 2021 +0900
+
+    merge main branch
+
+[33mcommit 60797856beb02418e41780be72820f9db3a9831d[m
+Author: Bin <dbswoqls89@snu.ac.kr>
+Date:   Mon Apr 5 20:26:54 2021 +0900
+
+    initial body content
+
+[33mcommit 5c9981c5b49dfbf307b752ce4151dea312ca9282[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0b175f7 0f13c78
+Author: Kyungwon-Baik <81463975+Kyungwon-Baik@users.noreply.github.com>
+Date:   Mon Apr 5 20:19:05 2021 +0900
+
+    Merge pull request #3 from BintheCoder/Kyungwon-Baik
+    
+    head added
+
+[33mcommit 0f13c786d33e204468f5b64577a4fb8e3b1d7d26[m
+Author: Kyungwon <bkw1103@snu.ac.kr>
+Date:   Mon Apr 5 20:17:32 2021 +0900
+
+    head added
+
+[33mcommit 0b175f76c5797f3e7e0a072414a433b8389a26ec[m
+Merge: 347bef4 2b0e4e9
+Author: Kyungwon-Baik <81463975+Kyungwon-Baik@users.noreply.github.com>
+Date:   Mon Apr 5 20:00:12 2021 +0900
+
+    Merge pull request #2 from BintheCoder/Kyungwon-Baik
+    
+    images for header and footer added
+
+[33mcommit 2b0e4e90197eaa0110258bc34262478dd63ac2f8[m
+Author: Kyungwon <bkw1103@snu.ac.kr>
+Date:   Mon Apr 5 19:58:30 2021 +0900
+
+    images for header and footer added
+
+[33mcommit 347bef4e9780f84233471dc5ed42bd131eab0af6[m
+Merge: ccc7405 a5f320e
+Author: BintheCoder <81068697+BintheCoder@users.noreply.github.com>
+Date:   Mon Apr 5 19:54:28 2021 +0900
+
+    Merge pull request #1 from BintheCoder/Jaebin
+    
+    Initial environmnet settings
+
+[33mcommit a5f320e3289a0a3c81c4bd199f684b9d3df2460f[m
+Author: Bin <dbswoqls89@snu.ac.kr>
+Date:   Mon Apr 5 19:53:32 2021 +0900
+
+    profile image added
+
+[33mcommit 0a9c8619643c4f706d4157000e490ffb319ccdda[m
+Author: Bin <dbswoqls89@snu.ac.kr>
+Date:   Mon Apr 5 19:50:05 2021 +0900
+
+    initial environment setting
+
+[33mcommit ccc7405af5ab5e50d58e95a2e947a9636cd8f171[m[33m ([m[1;31morigin/seungryeol[m[33m, [m[1;31morigin/Kyungwon-Baik[m[33m, [m[1;32mmain[m[33m)[m
+Author: BintheCoder <81068697+BintheCoder@users.noreply.github.com>
+Date:   Mon Apr 5 19:36:13 2021 +0900
+
+    Create README.md
