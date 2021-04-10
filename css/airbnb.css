@@ -1,3 +1,4 @@
+/*??????????????????헤더????????????????여기서부터 경원파트 헤더입니다~~~*/
 header{
   display: flex;
   position: fixed;
@@ -9,11 +10,11 @@ header{
   background-color: white;
   border-bottom:1px solid #D3D3D3;
   font-size: 0;
+  box-shadow: 0 6px 5px -5px rgb(221, 221, 221);
 }
 
-
 header .logo{
-  width: 100px;
+  width: 105px;
   height: auto;
   justify-self: flex-start;
   margin-left: 90px;
@@ -21,11 +22,12 @@ header .logo{
 
 header .search{
   display: flex;
+  border-style: solid;
   border-color: rgb(221, 221, 221);
-  border-radius: 10px;
+  border-radius: 40px;
   border-width: 1px;
   align-content: center;
-  justify-self: center;
+  padding: 8px 7px;
 }
 
 header .search .search-bar::placeholder {
@@ -39,10 +41,12 @@ header .search .search-bar{
   color: black;
   font-weight: 620;
   font-size: 11pt;
+  padding-right: 60px;
+  padding-left: 16px;
 }
 
 header .search img.search-icon{
-  width: 25px;
+  width: 32px;
   height: auto;
 }
 
@@ -61,20 +65,30 @@ header .host-button{
   border-color: black;
   border-radius: 5pt;
   border-width: 1px;
-  margin-right: 10px
+  margin-right: 10px;
+  cursor: pointer;
 }
 
 header .top-icon-bar{
-  width: 110px;
+  width: 130px;
   height: auto;
 }
+/*!!!!!!!!!!!!!!!!!헤더!!!!!!!!!!!!!!!!!!여기까지 경원파트 헤더입니다~~~*/
 
+
+
+/*??????????????????푸터????????????????여기서부터 경원파트 푸터입니다~~~*/
 footer{
   font-family: Malgun Gothic;
   font-size: 10.5pt;
   background-color: rgb(247, 247, 247);
   padding-left: 18px;
   padding-right: 40px;
+}
+
+footer .linked-text:hover{
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 footer .stitle{
@@ -121,3 +135,4 @@ footer .bottom img.bottom-icon{
 footer div div span{
   margin-bottom: 2.5px;
 }
+/*!!!!!!!!!!!!!!!!!!푸터!!!!!!!!!!!!!!!!!!여기까지 경원파트 푸터입니다~~~*/
